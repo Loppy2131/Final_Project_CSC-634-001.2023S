@@ -1,5 +1,5 @@
 # Basic-scrapy-project
-This project can be used as the base project to be used with 
+This project can use https://github.com/python-scrapy-playbook/basic-scrapy-project.git as the base project
 
 
 # using ScrapeOps to get API credit
